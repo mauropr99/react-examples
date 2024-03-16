@@ -1,0 +1,20 @@
+.cat-card {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: system-ui;
+}
+
+.cat-card-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
+.cat-card-section img {
+    max-width: 250px;
+    height: auto;
+}
