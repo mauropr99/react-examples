@@ -5,7 +5,6 @@ This repository contains projects and exercises to practice React concepts learn
 ## Contents
 
 - [Projects](#projects)
-- [Getting Started](#getting-started)
 - [Resources](#resources)
 
 ## Projects
@@ -17,21 +16,6 @@ This repository contains projects and exercises to practice React concepts learn
 5. **Movie Searcher** - Learning `useMemo`, `useRef`, and `useCallback`
 6. **Shopping Cart** - Learning `useContext`, `useReducer`, and `useState`
 7. **TODO App** - First React + TypeScript project
-
-## Getting Started
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/react-examples.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd react-examples
-    ```
-3. Install dependencies:
-    ```bash
-    npm install
-    ```
 
 ## Resources
 
